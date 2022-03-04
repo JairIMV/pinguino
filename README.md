@@ -1,2 +1,2 @@
-# https://jairimv.github.io/pinguino/
+# pinguino
 Juego
